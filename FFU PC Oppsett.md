@@ -13,4 +13,6 @@ https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install
 
 Helst bruk november 2025 release.
 
+Det er ingenting du trenger å endre på install, bare installer trykk next gjennom alt.
+
 
