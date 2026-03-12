@@ -7,6 +7,8 @@ Når du har en fresh pc med Windows 11 trenger du noen extra programmer
 
 Dette er:
 
+----------------------------------------------------------------------------------------------------------------------------
+
 Windows 11 ADK og Windows PE add-on for the ADK:
 
 https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install
@@ -15,4 +17,18 @@ Helst bruk november 2025 release.
 
 Det er ingenting du trenger å endre på install, bare installer trykk next gjennom alt.
 
+----------------------------------------------------------------------------------------------------------------------------
 
+Hyper-V
+
+Trykk Start, og søk opp Control Panel, trykk på Programs, så trykk "Turn Windown features on or off", så hook av "Hyper-v". Den burde begynne å laste ned.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Powershell 7
+
+Trykk start, og søk opp "Powershell". Åpne som admin ("CTRL + Shift + Left click" er en shortcut for å åpne som admin)
+
+Paste inn denne kommandoen og vent
+
+winget install --id Microsoft.PowerShell --source winget
