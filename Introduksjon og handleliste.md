@@ -1,18 +1,26 @@
 # HolyFFUTanking
 FFU tanke løsning for bruk gjennom WDS
-Her er en handle liste over hva du trenger for oppsett av FFU tanking gjennom pxeboot
+Her er en handle liste over hva du trenger for oppsett av FFU tanking gjennom pxeboot:
+
+----------------------------------------------------------------------------------------------------------------------------
 
 3 pcer
 
 En for WDS server (mye ram og god prosessor), en for FFU laging (helst litt kraftig), og en som skal være "target" for FFU tanking. Target-pc burde være en type som dere har mange av, som ikke kommer til å bli brukt/utlånt i framtiden.
 
+----------------------------------------------------------------------------------------------------------------------------
+
 En ruter
 
 Helst med dhcp styring siden jeg ikke kommer til å gå over det å sette det opp innenfor Windows server. Ruteren må også ha en "network boot" option. Vis dere har en UNIFI boks er den helt perfekt. Den har alt dere trenger for dette prosjektet.
 
+----------------------------------------------------------------------------------------------------------------------------
+
 Netverkskabler
 
 Helst CAT-6, dette burde dere ha mye av
+
+----------------------------------------------------------------------------------------------------------------------------
 
 Mye tid og tolmodighet
 
