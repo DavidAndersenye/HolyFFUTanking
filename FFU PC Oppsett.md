@@ -1,6 +1,7 @@
 Dette er hvordan du har lyst å sette opp pcen du skal lage FFUer på.
 
-Det er viktig at du har en PC med en fresh Windows 11 install med ingen andre filer. Dette er ofte et hull folk faller inn i når de lurer på hvorfor det ikke funker.
+Det er viktig at du har en PC med en fresh Windows 11 install med ingen andre extra filer og programmer. Dette er ofte et hull folk faller inn i når de lurer på hvorfor det ikke funker.
+
 Richard Balsley, Microfosft ingeniøren som lagde FFU løsningen, har sagt at dette er ofte en fix for folk som har problemer med lagingen av FFU filer.
 
 Når du har en fresh pc med Windows 11 trenger du noen extra programmer
@@ -43,6 +44,6 @@ Paste inn denne kommandoen og vent
 
 winget install --id Microsoft.PowerShell --source winget
 
-Når den er ferdig, lukk Powershell, og åpne Powershell 7.
+Når den er ferdig, lukk Powershell, og åpne Powershell 7 som administrator.
 
 ----------------------------------------------------------------------------------------------------------------------------
