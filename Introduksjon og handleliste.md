@@ -1,7 +1,4 @@
 # HolyFFUTanking
-FFU tanke løsning for bruk gjennom WDS
-Les mer om hva løsningen er her: https://github.com/rbalsleyMSFT/FFU
-FFU er ikke en løsning som er satt opp for pxe boot, bare for usb minnepinner, men kan endre på koden for å fikse dette
 Her er en handle liste over hva du trenger for oppsett av FFU tanking gjennom pxeboot:
 
 ----------------------------------------------------------------------------------------------------------------------------
