@@ -10,7 +10,9 @@ Deretter skal vi bytte directory til ffu mappen våres
 
 Skriv i Powershell 7
 
-cd "C:\FFU-2603.1\FFUDevelopment"
+cd "C:\FFU-2xxx.x\FFUDevelopment"
+
+Denne må du endre på tilsvarende versjonen av FFU du har
 
 ----------------------------------------------------------------------------------------------------------------------------
 
