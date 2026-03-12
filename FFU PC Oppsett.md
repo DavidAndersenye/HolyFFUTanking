@@ -9,6 +9,16 @@ Dette er:
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+FFU Development
+
+https://github.com/rbalsleyMSFT/FFU
+
+Trykk på releases og last ned den nyeste utgivelsen av FFU.
+
+Unzip FFU filen i C:/
+
+----------------------------------------------------------------------------------------------------------------------------
+
 Windows 11 ADK og Windows PE add-on for the ADK:
 
 https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install
@@ -32,3 +42,7 @@ Trykk start, og søk opp "Powershell". Åpne som admin ("CTRL + Shift + Left cli
 Paste inn denne kommandoen og vent
 
 winget install --id Microsoft.PowerShell --source winget
+
+Når den er ferdig, lukk Powershell, og åpne Powershell 7.
+
+----------------------------------------------------------------------------------------------------------------------------
