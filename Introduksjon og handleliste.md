@@ -16,7 +16,7 @@ Helst CAT-6, dette burde dere ha mye av
 
 Mye tid og tolmodighet
 
-Dette prosjektet er slitsomt på den måten at vis noe er feil, så tar feilsøking og testing av nye FFUer kan ta flere timer. Rekorden min når jeg først begynnte dette var 2,5 timer på en FFU. Men jo mer man jobber med det, jo bedre blir men på programene og du skjønner mer.
+Dette prosjektet er slitsomt på den måten at vis noe er feil, så tar feilsøking og testing av nye FFUer kan ta flere timer. Rekorden min når jeg først begynnte dette var 2,5 timer på en FFU laging. Men jo mer man jobber med det, jo bedre blir men på programene og du skjønner mer.
 
 FFU løsningen er også en veldig ny løsning lansert av Microsoft, og er ofte ustødig og kan gi deg mye forskjellige resultater og errors, men vis man setter seg godt inn i det skal det gå veldig bra.
 
